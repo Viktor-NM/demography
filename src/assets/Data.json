@@ -1,0 +1,1656 @@
+{
+	"css": {
+		"country": [
+			{
+				"id": "USA",
+				"count": 1669,
+				"percentage_question": 17.8,
+				"percentage_survey": 11.7
+			},
+			{
+				"id": "DEU",
+				"count": 830,
+				"percentage_question": 8.9,
+				"percentage_survey": 5.9
+			},
+			{
+				"id": "FRA",
+				"count": 599,
+				"percentage_question": 6.4,
+				"percentage_survey": 4.2
+			},
+			{
+				"id": "GBR",
+				"count": 596,
+				"percentage_question": 6.4,
+				"percentage_survey": 4.2
+			},
+			{
+				"id": "CAN",
+				"count": 354,
+				"percentage_question": 3.8,
+				"percentage_survey": 2.5
+			},
+			{
+				"id": "NLD",
+				"count": 347,
+				"percentage_question": 3.7,
+				"percentage_survey": 2.5
+			},
+			{
+				"id": "ESP",
+				"count": 290,
+				"percentage_question": 3.1,
+				"percentage_survey": 2.1
+			},
+			{
+				"id": "IND",
+				"count": 258,
+				"percentage_question": 2.8,
+				"percentage_survey": 1.9
+			},
+			{
+				"id": "RUS",
+				"count": 257,
+				"percentage_question": 2.8,
+				"percentage_survey": 1.8
+			},
+			{
+				"id": "POL",
+				"count": 253,
+				"percentage_question": 2.7,
+				"percentage_survey": 1.8
+			},
+			{
+				"id": "AUS",
+				"count": 249,
+				"percentage_question": 2.7,
+				"percentage_survey": 1.8
+			},
+			{
+				"id": "SWE",
+				"count": 237,
+				"percentage_question": 2.6,
+				"percentage_survey": 1.7
+			},
+			{
+				"id": "BRA",
+				"count": 208,
+				"percentage_question": 2.3,
+				"percentage_survey": 1.5
+			},
+			{
+				"id": "ITA",
+				"count": 192,
+				"percentage_question": 2.1,
+				"percentage_survey": 1.4
+			},
+			{
+				"id": "BEL",
+				"count": 153,
+				"percentage_question": 1.7,
+				"percentage_survey": 1.1
+			},
+			{
+				"id": "CZE",
+				"count": 152,
+				"percentage_question": 1.7,
+				"percentage_survey": 1.1
+			},
+			{
+				"id": "UKR",
+				"count": 131,
+				"percentage_question": 1.4,
+				"percentage_survey": 1
+			},
+			{
+				"id": "NOR",
+				"count": 127,
+				"percentage_question": 1.4,
+				"percentage_survey": 0.9
+			},
+			{
+				"id": "CHE",
+				"count": 118,
+				"percentage_question": 1.3,
+				"percentage_survey": 0.9
+			},
+			{
+				"id": "AUT",
+				"count": 111,
+				"percentage_question": 1.2,
+				"percentage_survey": 0.8
+			},
+			{
+				"id": "KOR",
+				"count": 106,
+				"percentage_question": 1.2,
+				"percentage_survey": 0.8
+			},
+			{
+				"id": "ARG",
+				"count": 93,
+				"percentage_question": 1,
+				"percentage_survey": 0.7
+			},
+			{
+				"id": "DNK",
+				"count": 93,
+				"percentage_question": 1,
+				"percentage_survey": 0.7
+			},
+			{
+				"id": "JPN",
+				"count": 89,
+				"percentage_question": 1,
+				"percentage_survey": 0.7
+			},
+			{
+				"id": "PRT",
+				"count": 88,
+				"percentage_question": 1,
+				"percentage_survey": 0.7
+			},
+			{
+				"id": "ROU",
+				"count": 81,
+				"percentage_question": 0.9,
+				"percentage_survey": 0.6
+			},
+			{
+				"id": "NZL",
+				"count": 77,
+				"percentage_question": 0.9,
+				"percentage_survey": 0.6
+			},
+			{
+				"id": "MEX",
+				"count": 74,
+				"percentage_question": 0.8,
+				"percentage_survey": 0.6
+			},
+			{
+				"id": "FIN",
+				"count": 70,
+				"percentage_question": 0.8,
+				"percentage_survey": 0.5
+			},
+			{
+				"id": "ISR",
+				"count": 69,
+				"percentage_question": 0.8,
+				"percentage_survey": 0.5
+			},
+			{
+				"id": "HUN",
+				"count": 65,
+				"percentage_question": 0.7,
+				"percentage_survey": 0.5
+			},
+			{
+				"id": "TUR",
+				"count": 65,
+				"percentage_question": 0.7,
+				"percentage_survey": 0.5
+			},
+			{
+				"id": "COL",
+				"count": 64,
+				"percentage_question": 0.7,
+				"percentage_survey": 0.5
+			},
+			{
+				"id": "CHN",
+				"count": 57,
+				"percentage_question": 0.7,
+				"percentage_survey": 0.4
+			},
+			{
+				"id": "GRC",
+				"count": 54,
+				"percentage_question": 0.6,
+				"percentage_survey": 0.4
+			},
+			{
+				"id": "BGR",
+				"count": 51,
+				"percentage_question": 0.6,
+				"percentage_survey": 0.4
+			}
+		],
+		"language": [
+			{
+				"id": "en-US",
+				"count": 9188,
+				"percentage_question": 75.6,
+				"percentage_survey": 64.3
+			},
+			{
+				"id": "de-DE",
+				"count": 750,
+				"percentage_question": 6.2,
+				"percentage_survey": 5.3
+			},
+			{
+				"id": "fr-FR",
+				"count": 709,
+				"percentage_question": 5.9,
+				"percentage_survey": 5
+			},
+			{
+				"id": "es-ES",
+				"count": 487,
+				"percentage_question": 4.1,
+				"percentage_survey": 3.5
+			},
+			{
+				"id": "ru-RU",
+				"count": 438,
+				"percentage_question": 3.7,
+				"percentage_survey": 3.1
+			},
+			{
+				"id": "pl-PL",
+				"count": 203,
+				"percentage_question": 1.7,
+				"percentage_survey": 1.5
+			},
+			{
+				"id": "nl-NL",
+				"count": 191,
+				"percentage_question": 1.6,
+				"percentage_survey": 1.4
+			},
+			{
+				"id": "ja-JP",
+				"count": 67,
+				"percentage_question": 0.6,
+				"percentage_survey": 0.5
+			},
+			{
+				"id": "zh-Hans",
+				"count": 67,
+				"percentage_question": 0.6,
+				"percentage_survey": 0.5
+			},
+			{
+				"id": "zh-Hant",
+				"count": 58,
+				"percentage_question": 0.5,
+				"percentage_survey": 0.5
+			}
+		],
+		"age": [
+			{
+				"id": "range_less_than_10",
+				"count": 10,
+				"percentage_question": 0.1,
+				"percentage_survey": 0.1
+			},
+			{
+				"id": "range_10_18",
+				"count": 266,
+				"percentage_question": 2.7,
+				"percentage_survey": 1.9
+			},
+			{
+				"id": "range_18_24",
+				"count": 1356,
+				"percentage_question": 13.5,
+				"percentage_survey": 9.5
+			},
+			{
+				"id": "range_25_34",
+				"count": 4507,
+				"percentage_question": 44.7,
+				"percentage_survey": 31.5
+			},
+			{
+				"id": "range_35_44",
+				"count": 2966,
+				"percentage_question": 29.5,
+				"percentage_survey": 20.8
+			},
+			{
+				"id": "range_45_54",
+				"count": 786,
+				"percentage_question": 7.8,
+				"percentage_survey": 5.5
+			},
+			{
+				"id": "range_55_64",
+				"count": 153,
+				"percentage_question": 1.6,
+				"percentage_survey": 1.1
+			},
+			{
+				"id": "range_more_than_65",
+				"count": 42,
+				"percentage_question": 0.5,
+				"percentage_survey": 0.3
+			}
+		],
+		"experience": [
+			{
+				"id": "range_less_than_1",
+				"count": 319,
+				"percentage_question": 3.2,
+				"percentage_survey": 2.3
+			},
+			{
+				"id": "range_1_2",
+				"count": 1083,
+				"percentage_question": 10.7,
+				"percentage_survey": 7.6
+			},
+			{
+				"id": "range_2_5",
+				"count": 2213,
+				"percentage_question": 21.9,
+				"percentage_survey": 15.5
+			},
+			{
+				"id": "range_5_10",
+				"count": 2603,
+				"percentage_question": 25.7,
+				"percentage_survey": 18.2
+			},
+			{
+				"id": "range_10_20",
+				"count": 2796,
+				"percentage_question": 27.6,
+				"percentage_survey": 19.6
+			},
+			{
+				"id": "range_more_than_20",
+				"count": 1131,
+				"percentage_question": 11.2,
+				"percentage_survey": 8
+			}
+		],
+		"education": [
+			{
+				"id": "no_degree",
+				"count": 2831,
+				"percentage_question": 28.4,
+				"percentage_survey": 19.8
+			},
+			{
+				"id": "yes_related",
+				"count": 4899,
+				"percentage_question": 49,
+				"percentage_survey": 34.3
+			},
+			{
+				"id": "yes_unrelated",
+				"count": 2273,
+				"percentage_question": 22.8,
+				"percentage_survey": 15.9
+			}
+		],
+		"salary": [
+			{
+				"id": "range_work_for_free",
+				"count": 700,
+				"percentage_question": 7.3,
+				"percentage_survey": 4.9
+			},
+			{
+				"id": "range_0_10",
+				"count": 726,
+				"percentage_question": 7.6,
+				"percentage_survey": 5.1
+			},
+			{
+				"id": "range_10_30",
+				"count": 1396,
+				"percentage_question": 14.5,
+				"percentage_survey": 9.8
+			},
+			{
+				"id": "range_30_50",
+				"count": 1959,
+				"percentage_question": 20.3,
+				"percentage_survey": 13.7
+			},
+			{
+				"id": "range_50_100",
+				"count": 2957,
+				"percentage_question": 30.6,
+				"percentage_survey": 20.7
+			},
+			{
+				"id": "range_100_200",
+				"count": 1625,
+				"percentage_question": 16.8,
+				"percentage_survey": 11.4
+			},
+			{
+				"id": "range_more_than_200",
+				"count": 315,
+				"percentage_question": 3.3,
+				"percentage_survey": 2.3
+			}
+		],
+		"source": [
+			{
+				"id": "state_of_css_survey",
+				"count": 6682,
+				"percentage_question": 50.6,
+				"percentage_survey": 46.7,
+				"entity": {
+					"name": "State of CSS",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://stateofcss.com"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "kevin_j_powell",
+				"count": 1540,
+				"percentage_question": 11.7,
+				"percentage_survey": 10.8,
+				"entity": {
+					"name": "Kevin Powell",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://www.kevinpowell.co/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "twitter",
+				"count": 1210,
+				"percentage_question": 9.2,
+				"percentage_survey": 8.5,
+				"entity": {
+					"name": "Twitter",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://twitter.com"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "css_tricks",
+				"count": 816,
+				"percentage_question": 6.2,
+				"percentage_survey": 5.8,
+				"entity": {
+					"name": "CSS-Tricks",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://css-tricks.com/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "stateofjs",
+				"count": 662,
+				"percentage_question": 5.1,
+				"percentage_survey": 4.7,
+				"entity": null
+			},
+			{
+				"id": "google",
+				"count": 461,
+				"percentage_question": 3.5,
+				"percentage_survey": 3.3,
+				"entity": {
+					"name": "Google",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://google.com"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "lea_verou",
+				"count": 261,
+				"percentage_question": 2,
+				"percentage_survey": 1.9,
+				"entity": {
+					"name": "Lea Verou",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://lea.verou.me/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "smashing_magazine",
+				"count": 223,
+				"percentage_question": 1.7,
+				"percentage_survey": 1.6,
+				"entity": {
+					"name": "Smashing Magazine",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://www.smashingmagazine.com/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "work",
+				"count": 176,
+				"percentage_question": 1.4,
+				"percentage_survey": 1.3,
+				"entity": {
+					"name": "Workplace",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": null,
+					"github": null
+				}
+			},
+			{
+				"id": "codrops",
+				"count": 108,
+				"percentage_question": 0.9,
+				"percentage_survey": 0.8,
+				"entity": {
+					"name": "Codrops",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://tympanus.net/codrops/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "youtube",
+				"count": 93,
+				"percentage_question": 0.8,
+				"percentage_survey": 0.7,
+				"entity": {
+					"name": "YouTube",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://youtube.com"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "hn",
+				"count": 84,
+				"percentage_question": 0.7,
+				"percentage_survey": 0.6,
+				"entity": {
+					"name": "Hacker News",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://news.ycombinator.com/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "mozilla",
+				"count": 82,
+				"percentage_question": 0.7,
+				"percentage_survey": 0.6,
+				"entity": null
+			},
+			{
+				"id": "slack",
+				"count": 73,
+				"percentage_question": 0.6,
+				"percentage_survey": 0.6,
+				"entity": {
+					"name": "Slack",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://slack.com/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "microsoft_teams",
+				"count": 71,
+				"percentage_question": 0.6,
+				"percentage_survey": 0.5,
+				"entity": {
+					"name": "Microsoft Teams",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "web_standards_ru",
+				"count": 71,
+				"percentage_question": 0.6,
+				"percentage_survey": 0.5,
+				"entity": {
+					"name": "Web Standards",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://web-standards.ru/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "sidebar",
+				"count": 68,
+				"percentage_question": 0.6,
+				"percentage_survey": 0.5,
+				"entity": {
+					"name": "Sidebar",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://sidebar.io"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "linkedin",
+				"count": 62,
+				"percentage_question": 0.5,
+				"percentage_survey": 0.5,
+				"entity": {
+					"name": "LinkedIn",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://linkedin.com/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "reddit",
+				"count": 39,
+				"percentage_question": 0.3,
+				"percentage_survey": 0.3,
+				"entity": {
+					"name": "Reddit",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://reddit.com"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "duckduckgo",
+				"count": 36,
+				"percentage_question": 0.3,
+				"percentage_survey": 0.3,
+				"entity": {
+					"name": "DuckDuckGo Browser",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://duckduckgo.com/app"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "front_end_front",
+				"count": 30,
+				"percentage_question": 0.3,
+				"percentage_survey": 0.3,
+				"entity": {
+					"name": "Front-End Front",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://frontendfront.com/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "una_kravets",
+				"count": 27,
+				"percentage_question": 0.3,
+				"percentage_survey": 0.2,
+				"entity": {
+					"name": "Una Kravets",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://una.im/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "frontend_focus",
+				"count": 24,
+				"percentage_question": 0.2,
+				"percentage_survey": 0.2,
+				"entity": {
+					"name": "Frontend Focus",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://frontendfoc.us/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "levelup",
+				"count": 22,
+				"percentage_question": 0.2,
+				"percentage_survey": 0.2,
+				"entity": {
+					"name": "Level Up Tutorials",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://www.leveluptutorials.com/"
+					},
+					"github": null
+				}
+			}
+		],
+		"genre": [
+			{
+				"id": "male",
+				"count": 8809,
+				"percentage_question": 88.1,
+				"percentage_survey": 61.6
+			},
+			{
+				"id": "female",
+				"count": 923,
+				"percentage_question": 9.3,
+				"percentage_survey": 6.5
+			},
+			{
+				"id": "non_binary",
+				"count": 204,
+				"percentage_question": 2.1,
+				"percentage_survey": 1.5
+			},
+			{
+				"id": "not_listed",
+				"count": 68,
+				"percentage_question": 0.7,
+				"percentage_survey": 0.5
+			}
+		],
+		"race": [
+			{
+				"id": "black_african",
+				"count": 203,
+				"percentage_question": 2.3,
+				"percentage_survey": 1.5
+			},
+			{
+				"id": "east_asian",
+				"count": 495,
+				"percentage_question": 5.5,
+				"percentage_survey": 3.5
+			},
+			{
+				"id": "hispanic_latin",
+				"count": 777,
+				"percentage_question": 8.6,
+				"percentage_survey": 5.5
+			},
+			{
+				"id": "middle_eastern",
+				"count": 299,
+				"percentage_question": 3.3,
+				"percentage_survey": 2.1
+			},
+			{
+				"id": "multiracial",
+				"count": 212,
+				"percentage_question": 2.4,
+				"percentage_survey": 1.5
+			},
+			{
+				"id": "native_american_islander_australian",
+				"count": 43,
+				"percentage_question": 0.5,
+				"percentage_survey": 0.4
+			},
+			{
+				"id": "south_asian",
+				"count": 342,
+				"percentage_question": 3.8,
+				"percentage_survey": 2.4
+			},
+			{
+				"id": "white_european",
+				"count": 6897,
+				"percentage_question": 75.6,
+				"percentage_survey": 48.2
+			},
+			{
+				"id": "south_east_asian",
+				"count": 314,
+				"percentage_question": 3.5,
+				"percentage_survey": 2.2
+			},
+			{
+				"id": "not_listed",
+				"count": 216,
+				"percentage_question": 2.4,
+				"percentage_survey": 1.6
+			}
+		],
+		"disability": [
+			{
+				"id": "visual_impairments",
+				"count": 700,
+				"percentage_question": 25.2,
+				"percentage_survey": 4.9
+			},
+			{
+				"id": "hearing_impairments",
+				"count": 150,
+				"percentage_question": 5.4,
+				"percentage_survey": 1.1
+			},
+			{
+				"id": "mobility_impairments",
+				"count": 139,
+				"percentage_question": 5.1,
+				"percentage_survey": 1
+			},
+			{
+				"id": "cognitive_impairments",
+				"count": 314,
+				"percentage_question": 11.4,
+				"percentage_survey": 2.2
+			},
+			{
+				"id": "not_listed",
+				"count": 1691,
+				"percentage_question": 60.9,
+				"percentage_survey": 11.9
+			}
+		]
+	},
+	"js": {
+		"country": [
+			{
+				"id": "USA",
+				"count": 4667,
+				"percentage_question": 17.5,
+				"percentage_survey": 11.9
+			},
+			{
+				"id": "DEU",
+				"count": 2030,
+				"percentage_question": 7.6,
+				"percentage_survey": 5.2
+			},
+			{
+				"id": "FRA",
+				"count": 1457,
+				"percentage_question": 5.5,
+				"percentage_survey": 3.7
+			},
+			{
+				"id": "GBR",
+				"count": 1382,
+				"percentage_question": 5.2,
+				"percentage_survey": 3.6
+			},
+			{
+				"id": "IND",
+				"count": 1255,
+				"percentage_question": 4.7,
+				"percentage_survey": 3.2
+			},
+			{
+				"id": "CAN",
+				"count": 975,
+				"percentage_question": 3.7,
+				"percentage_survey": 2.5
+			},
+			{
+				"id": "POL",
+				"count": 933,
+				"percentage_question": 3.5,
+				"percentage_survey": 2.4
+			},
+			{
+				"id": "BRA",
+				"count": 752,
+				"percentage_question": 2.9,
+				"percentage_survey": 2
+			},
+			{
+				"id": "ESP",
+				"count": 748,
+				"percentage_question": 2.8,
+				"percentage_survey": 1.9
+			},
+			{
+				"id": "NLD",
+				"count": 713,
+				"percentage_question": 2.7,
+				"percentage_survey": 1.9
+			},
+			{
+				"id": "RUS",
+				"count": 598,
+				"percentage_question": 2.3,
+				"percentage_survey": 1.6
+			},
+			{
+				"id": "AUS",
+				"count": 592,
+				"percentage_question": 2.3,
+				"percentage_survey": 1.5
+			},
+			{
+				"id": "SWE",
+				"count": 533,
+				"percentage_question": 2,
+				"percentage_survey": 1.4
+			},
+			{
+				"id": "ITA",
+				"count": 485,
+				"percentage_question": 1.9,
+				"percentage_survey": 1.3
+			},
+			{
+				"id": "UKR",
+				"count": 368,
+				"percentage_question": 1.4,
+				"percentage_survey": 1
+			},
+			{
+				"id": "CZE",
+				"count": 356,
+				"percentage_question": 1.4,
+				"percentage_survey": 1
+			},
+			{
+				"id": "NOR",
+				"count": 309,
+				"percentage_question": 1.2,
+				"percentage_survey": 0.8
+			},
+			{
+				"id": "CHN",
+				"count": 293,
+				"percentage_question": 1.1,
+				"percentage_survey": 0.8
+			},
+			{
+				"id": "BEL",
+				"count": 287,
+				"percentage_question": 1.1,
+				"percentage_survey": 0.8
+			},
+			{
+				"id": "MEX",
+				"count": 281,
+				"percentage_question": 1.1,
+				"percentage_survey": 0.8
+			}
+		],
+		"language": [
+			{
+				"id": "en-US",
+				"count": 27456,
+				"percentage_question": 81.7,
+				"percentage_survey": 69.6
+			},
+			{
+				"id": "fr-FR",
+				"count": 1314,
+				"percentage_question": 4,
+				"percentage_survey": 3.4
+			},
+			{
+				"id": "de-DE",
+				"count": 1210,
+				"percentage_question": 3.6,
+				"percentage_survey": 3.1
+			},
+			{
+				"id": "es-ES",
+				"count": 1149,
+				"percentage_question": 3.5,
+				"percentage_survey": 3
+			},
+			{
+				"id": "ru-RU",
+				"count": 1014,
+				"percentage_question": 3.1,
+				"percentage_survey": 2.6
+			},
+			{
+				"id": "pl-PL",
+				"count": 537,
+				"percentage_question": 1.6,
+				"percentage_survey": 1.4
+			},
+			{
+				"id": "zh-Hans",
+				"count": 359,
+				"percentage_question": 1.1,
+				"percentage_survey": 1
+			},
+			{
+				"id": "nl-NL",
+				"count": 230,
+				"percentage_question": 0.7,
+				"percentage_survey": 0.6
+			},
+			{
+				"id": "zh-Hant",
+				"count": 214,
+				"percentage_question": 0.7,
+				"percentage_survey": 0.6
+			},
+			{
+				"id": "ja-JP",
+				"count": 146,
+				"percentage_question": 0.5,
+				"percentage_survey": 0.4
+			}
+		],
+		"age": [
+			{
+				"id": "range_less_than_10",
+				"count": 26,
+				"percentage_question": 0.1,
+				"percentage_survey": 0.1
+			},
+			{
+				"id": "range_10_18",
+				"count": 1336,
+				"percentage_question": 4.5,
+				"percentage_survey": 3.4
+			},
+			{
+				"id": "range_18_24",
+				"count": 5864,
+				"percentage_question": 19.6,
+				"percentage_survey": 14.9
+			},
+			{
+				"id": "range_25_34",
+				"count": 14404,
+				"percentage_question": 48,
+				"percentage_survey": 36.5
+			},
+			{
+				"id": "range_35_44",
+				"count": 6503,
+				"percentage_question": 21.7,
+				"percentage_survey": 16.5
+			},
+			{
+				"id": "range_45_54",
+				"count": 1546,
+				"percentage_question": 5.2,
+				"percentage_survey": 4
+			},
+			{
+				"id": "range_55_64",
+				"count": 308,
+				"percentage_question": 1.1,
+				"percentage_survey": 0.8
+			},
+			{
+				"id": "range_more_than_65",
+				"count": 45,
+				"percentage_question": 0.2,
+				"percentage_survey": 0.2
+			}
+		],
+		"experience": [
+			{
+				"id": "range_less_than_1",
+				"count": 1272,
+				"percentage_question": 4.3,
+				"percentage_survey": 3.3
+			},
+			{
+				"id": "range_1_2",
+				"count": 4177,
+				"percentage_question": 14,
+				"percentage_survey": 10.6
+			},
+			{
+				"id": "range_2_5",
+				"count": 8710,
+				"percentage_question": 29.1,
+				"percentage_survey": 22.1
+			},
+			{
+				"id": "range_5_10",
+				"count": 7921,
+				"percentage_question": 26.4,
+				"percentage_survey": 20.1
+			},
+			{
+				"id": "range_10_20",
+				"count": 5784,
+				"percentage_question": 19.3,
+				"percentage_survey": 14.7
+			},
+			{
+				"id": "range_more_than_20",
+				"count": 2168,
+				"percentage_question": 7.3,
+				"percentage_survey": 5.5
+			}
+		],
+		"education": [
+			{
+				"id": "no_degree",
+				"count": 8265,
+				"percentage_question": 27.9,
+				"percentage_survey": 21
+			},
+			{
+				"id": "yes_related",
+				"count": 15839,
+				"percentage_question": 53.3,
+				"percentage_survey": 40.2
+			},
+			{
+				"id": "yes_unrelated",
+				"count": 5624,
+				"percentage_question": 19,
+				"percentage_survey": 14.3
+			}
+		],
+		"salary": [
+			{
+				"id": "range_work_for_free",
+				"count": 2526,
+				"percentage_question": 8.9,
+				"percentage_survey": 6.4
+			},
+			{
+				"id": "range_0_10",
+				"count": 2562,
+				"percentage_question": 9,
+				"percentage_survey": 6.5
+			},
+			{
+				"id": "range_10_30",
+				"count": 4037,
+				"percentage_question": 14.1,
+				"percentage_survey": 10.3
+			},
+			{
+				"id": "range_30_50",
+				"count": 4906,
+				"percentage_question": 17.1,
+				"percentage_survey": 12.5
+			},
+			{
+				"id": "range_50_100",
+				"count": 8097,
+				"percentage_question": 28.3,
+				"percentage_survey": 20.6
+			},
+			{
+				"id": "range_100_200",
+				"count": 5393,
+				"percentage_question": 18.8,
+				"percentage_survey": 13.7
+			},
+			{
+				"id": "range_more_than_200",
+				"count": 1172,
+				"percentage_question": 4.1,
+				"percentage_survey": 3
+			}
+		],
+		"source": [
+			{
+				"id": "state_of_js_survey",
+				"count": 15672,
+				"percentage_question": 44.5,
+				"percentage_survey": 39.8,
+				"entity": {
+					"name": "State of JavaScript",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://stateofjs.com"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "twitter",
+				"count": 4271,
+				"percentage_question": 12.2,
+				"percentage_survey": 10.9,
+				"entity": {
+					"name": "Twitter",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://twitter.com"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "google",
+				"count": 2740,
+				"percentage_question": 7.8,
+				"percentage_survey": 7,
+				"entity": {
+					"name": "Google",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://google.com"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "youtube",
+				"count": 2609,
+				"percentage_question": 7.4,
+				"percentage_survey": 6.7,
+				"entity": {
+					"name": "YouTube",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://youtube.com"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "fireship",
+				"count": 2390,
+				"percentage_question": 6.8,
+				"percentage_survey": 6.1,
+				"entity": {
+					"name": "Fireship",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://jeffdelaney.me/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "angular_community",
+				"count": 1470,
+				"percentage_question": 4.2,
+				"percentage_survey": 3.8,
+				"entity": {
+					"name": "Angular Community",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "angular.io"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "js_weekly",
+				"count": 982,
+				"percentage_question": 2.8,
+				"percentage_survey": 2.5,
+				"entity": {
+					"name": "JavaScript Weekly",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://javascriptweekly.com/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "reddit",
+				"count": 752,
+				"percentage_question": 2.2,
+				"percentage_survey": 2,
+				"entity": {
+					"name": "Reddit",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://reddit.com"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "scrimba",
+				"count": 500,
+				"percentage_question": 1.5,
+				"percentage_survey": 1.3,
+				"entity": {
+					"name": "Scrimba",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://scrimba.com/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "linkedin",
+				"count": 481,
+				"percentage_question": 1.4,
+				"percentage_survey": 1.3,
+				"entity": {
+					"name": "LinkedIn",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://linkedin.com/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "work",
+				"count": 465,
+				"percentage_question": 1.4,
+				"percentage_survey": 1.2,
+				"entity": {
+					"name": "Workplace",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": null,
+					"github": null
+				}
+			},
+			{
+				"id": "word_of_mouth",
+				"count": 273,
+				"percentage_question": 0.8,
+				"percentage_survey": 0.7,
+				"entity": {
+					"name": "Word Of Mouth",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": null,
+					"github": null
+				}
+			},
+			{
+				"id": "duckduckgo",
+				"count": 205,
+				"percentage_question": 0.6,
+				"percentage_survey": 0.6,
+				"entity": {
+					"name": "DuckDuckGo Browser",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://duckduckgo.com/app"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "slack",
+				"count": 173,
+				"percentage_question": 0.5,
+				"percentage_survey": 0.5,
+				"entity": {
+					"name": "Slack",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://slack.com/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "discord",
+				"count": 165,
+				"percentage_question": 0.5,
+				"percentage_survey": 0.5,
+				"entity": {
+					"name": "Discord",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://discord.com/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "codrops",
+				"count": 129,
+				"percentage_question": 0.4,
+				"percentage_survey": 0.4,
+				"entity": {
+					"name": "Codrops",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://tympanus.net/codrops/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "microsoft_teams",
+				"count": 120,
+				"percentage_question": 0.4,
+				"percentage_survey": 0.4,
+				"entity": {
+					"name": "Microsoft Teams",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "devto",
+				"count": 113,
+				"percentage_question": 0.4,
+				"percentage_survey": 0.3,
+				"entity": {
+					"name": "Dev.to",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://dev.to/"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "state_of_css_survey",
+				"count": 100,
+				"percentage_question": 0.3,
+				"percentage_survey": 0.3,
+				"entity": {
+					"name": "State of CSS",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://stateofcss.com"
+					},
+					"github": null
+				}
+			},
+			{
+				"id": "mastodon",
+				"count": 98,
+				"percentage_question": 0.3,
+				"percentage_survey": 0.3,
+				"entity": {
+					"name": "Mastodon",
+					"nameClean": null,
+					"nameHtml": null,
+					"homepage": {
+						"url": "https://mastodon.social/"
+					},
+					"github": null
+				}
+			}
+		],
+		"genre": [
+			{
+				"id": "male",
+				"count": 27663,
+				"percentage_question": 93,
+				"percentage_survey": 70.1
+			},
+			{
+				"id": "female",
+				"count": 1547,
+				"percentage_question": 5.2,
+				"percentage_survey": 4
+			},
+			{
+				"id": "non_binary",
+				"count": 412,
+				"percentage_question": 1.4,
+				"percentage_survey": 1.1
+			},
+			{
+				"id": "not_listed",
+				"count": 155,
+				"percentage_question": 0.6,
+				"percentage_survey": 0.4
+			}
+		],
+		"race": [
+			{
+				"id": "black_african",
+				"count": 1074,
+				"percentage_question": 3.8,
+				"percentage_survey": 2.8
+			},
+			{
+				"id": "east_asian",
+				"count": 1710,
+				"percentage_question": 6,
+				"percentage_survey": 4.4
+			},
+			{
+				"id": "hispanic_latin",
+				"count": 2795,
+				"percentage_question": 9.8,
+				"percentage_survey": 7.1
+			},
+			{
+				"id": "middle_eastern",
+				"count": 1158,
+				"percentage_question": 4.1,
+				"percentage_survey": 3
+			},
+			{
+				"id": "multiracial",
+				"count": 727,
+				"percentage_question": 2.6,
+				"percentage_survey": 1.9
+			},
+			{
+				"id": "native_american_islander_australian",
+				"count": 142,
+				"percentage_question": 0.5,
+				"percentage_survey": 0.4
+			},
+			{
+				"id": "south_asian",
+				"count": 1731,
+				"percentage_question": 6.1,
+				"percentage_survey": 4.4
+			},
+			{
+				"id": "white_european",
+				"count": 19790,
+				"percentage_question": 68.8,
+				"percentage_survey": 50.2
+			},
+			{
+				"id": "south_east_asian",
+				"count": 1221,
+				"percentage_question": 4.3,
+				"percentage_survey": 3.1
+			},
+			{
+				"id": "not_listed",
+				"count": 795,
+				"percentage_question": 2.8,
+				"percentage_survey": 2.1
+			}
+		],
+		"disability": [
+			{
+				"id": "visual_impairments",
+				"count": 1521,
+				"percentage_question": 20.9,
+				"percentage_survey": 3.9
+			},
+			{
+				"id": "hearing_impairments",
+				"count": 330,
+				"percentage_question": 4.6,
+				"percentage_survey": 0.9
+			},
+			{
+				"id": "mobility_impairments",
+				"count": 269,
+				"percentage_question": 3.7,
+				"percentage_survey": 0.7
+			},
+			{
+				"id": "cognitive_impairments",
+				"count": 718,
+				"percentage_question": 9.9,
+				"percentage_survey": 1.9
+			},
+			{
+				"id": "not_listed",
+				"count": 4796,
+				"percentage_question": 65.9,
+				"percentage_survey": 12.2
+			}
+		]
+	}
+}
