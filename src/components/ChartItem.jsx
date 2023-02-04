@@ -45,7 +45,7 @@ export default function ChartItem({ option }) {
 	}
 
 	return (
-		<section className='px:64 mb:64 gap:32 grid grid-cols:2 flex:1 pc:center {flex;flex-direction:col;jc:center;ai:center}>article'>
+		<section className='px:64@md mb:64 gap:32 grid grid-cols:2@md flex:1 pc:center {flex;flex-direction:col;jc:center;ai:center}>article'>
 			<article>
 				<h3>
 					State of CSS 2022 -{' '}
