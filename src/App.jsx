@@ -2,6 +2,8 @@ import { useState } from 'react'
 import Banner from './components/Banner'
 import Header from './components/Header'
 
+import logo_ita from './assets/logo-ita.png'
+
 export default function App() {
 	const [openModal, setOpenModal] = useState(false)
 	return (
@@ -16,7 +18,7 @@ export default function App() {
 				<section className='bg:white p:2rem r:10 d:grid gap:2rem jc:center'>
 					<header className='d:flex jc:space-between ai:center'>
 						<h2>Demography - ITA</h2>
-						<img className='w:82' src="http://it-acapulco.edu.mx/wp-content/themes/TecNMCampus/assets/img/logo-ita.png" alt="ita-logo" />
+						<img className='w:82' src={logo_ita} alt="ita-logo" />
 					</header>
 					<nav className='d:grid grid-template-cols:1fr|1fr gap-x:2em'>
 						<p className='grid-col-span:2 t:24 t:bold mb:12'>Equipo 5</p>
